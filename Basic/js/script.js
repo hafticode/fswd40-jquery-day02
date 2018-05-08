@@ -11,7 +11,7 @@ $(document).ready(function(){
 	})
 
 
-	$(".card2").one("click",function(){
+	$(".card2").on("click",function(){
 		if ($(this).children('img#santa').length > 0) {
 			$(this).fadeOut();
 		}

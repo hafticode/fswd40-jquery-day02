@@ -1,0 +1,11 @@
+#navigation {
+    display: grid;
+    grid-template-columns: 7% 7% 7% 7% 7% 55% 10%;
+
+    #search-tab {
+        justify-self: end;
+    }
+    #cart-tab {
+        justify-self: center;
+    }
+}
