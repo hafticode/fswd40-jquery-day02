@@ -3,25 +3,29 @@ var items = `[
     "name":"iPhone", 
     "price": 1250,
     "image":"images/iphone.png",
-    "count": 1
+    "count": 1,
+    "sum": 1250
 },	
 {
     "name":"iPad",
     "price": 1050,
     "image":"images/ipad.png",
-    "count": 1
+    "count": 1,
+    "sum": 1050
     
 },	
 {
     "name":"Macbook",
     "price": 2250,
     "image":"images/macbook.png",
-    "count": 1
+    "count": 1,
+    "sum": 2250
 },	
 {
     "name":"Watch",
     "price": 450,
     "image":"images/watch.png",
-    "count": 1
+    "count": 1,
+    "sum": 450
 }
 ]`;
